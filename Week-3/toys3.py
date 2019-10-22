@@ -1,4 +1,4 @@
-a=int(input('Enter a numero:'))
+a= int(input('Enter a numero:'))
 b=int(input('Give me another numero:'))
 def inc_return(a):
     product = a+1
@@ -52,3 +52,6 @@ def string_repeat(d, e):
     product = d * e
     return product
 print('Your phrase repeated as many times as your number is:' + string_repeat(d, e))
+
+
+

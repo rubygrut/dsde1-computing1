@@ -1,6 +1,5 @@
 '''
 test_toys.py
-
 Unit tests for toy functions.
 '''
 

@@ -1,0 +1,1 @@
+def input('Give a number between 1 and 10:'):
